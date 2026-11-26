@@ -1,0 +1,1 @@
+de jag gjorde va att ändra 13 till 12 där de fick som var 13 fick rabatt även fast de räknades in i andra kategorin och för att säkerställa att de blir rätt ändrade jag enehtstesten och kal till 12 och 13 i testen för se gräsvärden 
